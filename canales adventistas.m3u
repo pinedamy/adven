@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ydVVIA.png" group-title="Estados Unidos",3ABN Latino (US)
+https://moiptvhls-i.akamaihd.net/hls/live/652315/secure/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/16/16d9ad22f7f15f6173638a9e2de61479.png" , hopechannel 
+https://bcliveunivsecure-lh.akamaihd.net/i/IADSpanish_1@572888/master.m3u8
+#EXTINF:-1 tvg-logo="https://logostv.es/wp-content/themes/videopro/images/logo-logostv.png" group-title="España", LogosTV (Es)
+https://streamer1.streamhost.org/salive/logosH/chunklist_w636565883.m3u8
+#EXTINF:-1 tvg-logo="http://aws-noticias-es.s3.amazonaws.com/2014/11/logotipont.jpg" , Nuevo Tiempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b478000_slspa.m3u8 
